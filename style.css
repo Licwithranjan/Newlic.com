@@ -1,0 +1,62 @@
+.bg{
+    background-image: url(design-neon-abstract-light-design-hd-wallpaper-preview.jpg);
+    position: absolute;
+    width: 98vw;
+    height: 98vh;
+    background-size: cover;
+}
+.ig{
+    background-image: url(WhatsApp_Image_2021-12-25_at_6.26.03_PM-removebg-preview.png);
+    position: absolute;
+    width: 20vw;
+    height: 98vh;
+    background-size: cover;
+}
+.is{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 40px;
+    color: red;
+    position: absolute;
+    top: 36vh;
+    left: 63vw;
+    word-spacing: 10px;
+    border: 3px dotted blue;
+    width: 35vw;
+    height: 60
+}
+.button{
+    position: absolute;
+    left: 46vw;
+    top: 10vh;
+    word-spacing: 20px;
+    font-size: 34px;
+    
+}
+.a{
+    background-image: url(lic-jeevan-labh.jpg);
+    position: absolute;
+    width: 23vw;
+    height: 21vh;
+    background-size: cover;
+    top: 130vh;
+    left: 12vw;
+}
+.b{
+    background-image: url(lic-jeevan-umang-plan_1609315466.jpeg);
+    position: absolute;
+    width: 34vw;
+    height: 38vh;
+    background-size: cover;
+    top: 130vh;
+    left: 37vw;
+}
+.c{
+    background-image: url(1_j64LFYJ8IW9HPGA-_1ZMIA.jpeg);
+    position: absolute;
+    width: 20vw;
+    height: 38vh;
+    background-size: cover;
+    top: 130vh;
+    left: 72vw;
+}
